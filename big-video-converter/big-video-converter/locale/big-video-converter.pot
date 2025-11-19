@@ -1,0 +1,1953 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the big-video-converter package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: big-video-converter\n"
+        "Report-Msgid-Bugs-To: \n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 111
+msgid   "Video Conversion"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 315
+#, python-brace-format
+msgid   "Error starting conversion: {0}"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 348
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 351
+msgid   "Software encoding"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 349
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 397
+msgid   "Full GPU acceleration"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 350
+msgid   "Software Decoding and GPU encoding"
+msgstr  ""
+
+#
+# #-#-#-#-#  big-video-converter.pot (big-video-converter)  #-#-#-#-#
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 356
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/progress_page.py, line: 160
+msgid   "Unknown"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 381
+msgid   "Starting process..."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 382
+msgid   "Starting FFmpeg process..."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 399
+msgid   "GPU encoding"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 401
+msgid   "GPU processing"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 460
+msgid   "No progress detected. Process may be stuck."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 537
+msgid   "Process cancelled by user"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 940
+msgid   "Conversion cancelled."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 942
+msgid   "Cancelled"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 976
+#, python-brace-format
+msgid   "Conversion timed out after {0} hours"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 992
+msgid   "Completed!"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 993
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 1170
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 1188
+msgid   "Conversion completed successfully!"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 1088
+#, python-brace-format
+msgid   "Conversion completed successfully!\n"
+        "\n"
+        "The original file <b>{0}</b> was deleted."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 1111
+#, python-brace-format
+msgid   "Conversion completed successfully!\n"
+        "\n"
+        "Could not delete the original file: {0}"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 1134
+msgid   "Conversion completed successfully!\n"
+        "\n"
+        "The converted file size is suspicious, so the original file was not "
+        "removed."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 1213
+#, python-brace-format
+msgid   "Conversion failed with code {0}"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 1214
+msgid   "Error!"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 1231
+#, python-brace-format
+msgid   "The conversion failed with error code {0}.\n"
+        "\n"
+        "Check the log for more details."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 1259
+msgid   "Monitor error"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/conversion.py, line: 1287
+msgid   "Information"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 36
+msgid   "File Information"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 95
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 748
+msgid   "Analyzing video file..."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 138
+msgid   "Could not retrieve file information."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 157
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 300
+msgid   "Video Streams"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 160
+msgid   "Audio Streams"
+msgstr  ""
+
+#
+# #-#-#-#-#  big-video-converter.pot (big-video-converter)  #-#-#-#-#
+#
+# #-#-#-#-#  big-video-converter.pot (big-video-converter)  #-#-#-#-#
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 163
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 591
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 181
+msgid   "Subtitles"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 171
+msgid   "General Information"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 176
+msgid   "File Name"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 181
+msgid   "Copy file name"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 189
+msgid   "Location"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 194
+msgid   "Open containing folder"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 206
+msgid   "File Size"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 211
+msgid   "Copy file size"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 228
+msgid   "Duration"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 233
+msgid   "Copy duration"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 245
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 657
+msgid   "Format"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 250
+msgid   "Copy format"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 263
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 401
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 569
+msgid   "Bitrate"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 268
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 406
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 576
+msgid   "Copy bitrate"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 308
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 476
+msgid   "Codec"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 313
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 483
+msgid   "Copy codec"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 326
+msgid   "Resolution"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 345
+msgid   "Copy resolution"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 361
+msgid   "Frame Rate"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 368
+msgid   "Copy frame rate"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 383
+msgid   "Pixel Format"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 388
+msgid   "Copy pixel format"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 419
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 592
+msgid   "Language"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 424
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 599
+msgid   "Copy language code"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 507
+msgid   "Sample Rate"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 514
+msgid   "Copy sample rate"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 524
+msgid   "CD Quality"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 526
+msgid   "Hi-Res Audio"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 539
+msgid   "(Mono)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 541
+msgid   "(Stereo)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 543
+msgid   "(5.1 Surround)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 545
+msgid   "(7.1 Surround)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 548
+msgid   "Channels"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 555
+msgid   "Copy channels"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 636
+msgid   "Copy value"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 653
+msgid   "Format Details"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 658
+msgid   "Bitrate (bps)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 659
+msgid   "Detection Score"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 671
+msgid   "Metadata"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 708
+msgid   "Error retrieving file information"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/utils/file_info.py, line: 716
+msgid   "Retry"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 61
+msgid   "Auto-detect"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 62
+msgid   "NVENC (Nvidia)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 63
+msgid   "VAAPI (Intel/AMD)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 64
+msgid   "QSV (Intel)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 65
+msgid   "Vulkan"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 66
+msgid   "Software (CPU)"
+msgstr  ""
+
+#
+# #-#-#-#-#  big-video-converter.pot (big-video-converter)  #-#-#-#-#
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 78
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 119
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 183
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 218
+msgid   "Default"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 79
+msgid   "Very High"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 80
+msgid   "High"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 81
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 123
+msgid   "Medium"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 82
+msgid   "Low"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 83
+msgid   "Very Low"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 84
+msgid   "Super Low"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 104
+msgid   "H.264 (Default)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 105
+msgid   "H.265 (HEVC)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 106
+msgid   "AV1"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 107
+msgid   "VP9"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 120
+msgid   "Ultra Fast"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 121
+msgid   "Very Fast"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 122
+msgid   "Faster"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 124
+msgid   "Slow"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 125
+msgid   "Very Slow"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 144
+msgid   "Extract to SRT"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 144
+msgid   "Keep Embedded"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 144
+msgid   "Remove"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 154
+msgid   "Copy (No Re-encoding)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 154
+msgid   "Re-encode"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 154
+msgid   "Remove Audio"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 165
+msgid   "AAC (Default)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 166
+msgid   "Opus (Best Quality)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 167
+msgid   "AC3 (Dolby Digital)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 179
+msgid   "Default (Original)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 180
+msgid   "4K UHD (3840×2160)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 181
+msgid   "2K QHD (2560×1440)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 182
+msgid   "Full HD (1920×1080)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 183
+msgid   "HD (1280×720)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 184
+msgid   "SD (854×480)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 185
+msgid   "4K UHD Vertical (2160×3840)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 186
+msgid   "2K QHD Vertical (1440×2560)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 187
+msgid   "Full HD Vertical (1080×1920)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 188
+msgid   "HD Vertical (720×1280)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 189
+msgid   "SD Vertical (480×854)"
+msgstr  ""
+
+#
+# #-#-#-#-#  big-video-converter.pot (big-video-converter)  #-#-#-#-#
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 190
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 189
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 222
+msgid   "Custom"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 217
+msgid   "If your GPU supports video encoding, conversion will be much "
+        "faster.\n"
+        "\n"
+        "Automatic detection is usually the best choice, but you can also "
+        "select it manually.\n"
+        "\n"
+        "Software mode is slower but compatible with more formats.\n"
+        "\n"
+        "If the GPU isn’t supported, the system will try partial GPU "
+        "processing and automatically fall back to Software mode if needed."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 223
+msgid   "Higher quality means a larger file.\n"
+        "\n"
+        "The default option is a good balance between image quality and file "
+        "size."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 227
+msgid   "H.264: An older format that works on almost all devices. It takes up "
+        "more storage space but is the fastest to convert.\n"
+        "\n"
+        "H.265: A newer version of H.264. It doesn't work on older devices "
+        "and compresses files more efficiently.\n"
+        "\n"
+        "VP9: Widely used by YouTube. If your computer doesn't have a "
+        "compatible graphics card, the conversion can be very slow.\n"
+        "\n"
+        "AV1: The most modern format. It offers the best compression "
+        "(creating smaller files), but the conversion can also be slow if the "
+        "graphics card isn't compatible."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 230
+msgid   "Copy is usually best, fast and preserves full quality.\n"
+        "\n"
+        "Re-encoding slightly reduces quality but improves compatibility and "
+        "can reduce file size."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 234
+msgid   "If subtitles are embedded, keeping them is usually best.\n"
+        "\n"
+        "Some players need an external subtitle file."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 238
+msgid   "Copying video is extremely fast and keeps full image quality.\n"
+        "\n"
+        "Perfect for cutting or trimming videos for social media."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 243
+msgid   "Slower conversion produces smaller files.\n"
+        "\n"
+        "Faster presets create larger files but convert in less time."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 247
+msgid   "Audio format (when converting):\n"
+        "\n"
+        "• AAC: Most compatible, good quality\n"
+        "• Opus: Excellent quality at small sizes\n"
+        "• AC3 (Dolby Digital): Good for home theater"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 253
+msgid   "Output size:\n"
+        "\n"
+        "• Original: Keep the same resolution\n"
+        "• Standard: 4K, Full HD, HD (TVs and monitors)\n"
+        "• Vertical: For phones and social media\n"
+        "• Custom: Set your own dimensions"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 259
+msgid   "• MP4: Most compatible\n"
+        "• MKV: More features"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 262
+msgid   "• Move right: Brighter\n"
+        "• Move left: Darker\n"
+        "• Default: 0 (no change)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 265
+msgid   "• Move right: More vivid\n"
+        "• Move left: More muted\n"
+        "• Default: 1.0 (no change)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 270
+msgid   "• Positive: More red/yellow\n"
+        "• Negative: More blue/green\n"
+        "• Default: 0 (no change)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 274
+msgid   "Crop the video's edges to keep only the part you need."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 276
+msgid   "Select parts of the video to keep.\n"
+        "\n"
+        "Add sections with the + button or directly in the video using the "
+        "markers button above the video.\n"
+        "\n"
+        "You can export selected parts as one file or as multiple clips\n"
+        " ideal for creating short videos for social media."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 282
+msgid   "Run decode on the CPU and encode on the GPU.\n"
+        "\n"
+        "Usually best left disabled, but can help with certain compatibility "
+        "issues."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 286
+msgid   "Audio quality:\n"
+        "\n"
+        "• Higher = better quality, larger file\n"
+        "• 128k: Good for most content\n"
+        "• 192k: High quality\n"
+        "• 256k+: Professional use\n"
+        "• Default: Auto (encoder decides)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 294
+msgid   "Number of audio channels:\n"
+        "\n"
+        "• 1: Mono (single speaker)\n"
+        "• 2: Stereo (left/right)\n"
+        "• 6: 5.1 Surround\n"
+        "• 8: 7.1 Surround\n"
+        "• Default: Keep original"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 302
+msgid   "Advanced: Custom FFmpeg options.\n"
+        "\n"
+        "• For experienced users only\n"
+        "• Invalid options may cause errors\n"
+        "• Example: -ss 60 -t 30 (skip 60s, take 30s)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 308
+msgid   "Skips all remaining processes and just exports the embedded "
+        "subtitles as an SRT file."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 311
+msgid   "You’re seeing an example of help shown when hovering over an item."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 314
+msgid   "Remove all files from the queue"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 315
+msgid   "Open application menu"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 317
+msgid   "Right-click for more options"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 318
+msgid   "Preview this video file"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 319
+msgid   "Open video editor for this file"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 320
+msgid   "Show detailed file information"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/constants.py, line: 321
+msgid   "Remove this file from the queue"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 283
+msgid   "Main"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 504
+msgid   "Conversion"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 517
+msgid   "Editing"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 549
+msgid   "GPU"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 550
+msgid   "Hardware acceleration"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 559
+msgid   "Video Quality"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 568
+msgid   "Video Codec"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 582
+msgid   "Audio"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 603
+msgid   "Copy video without reencoding"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 609
+msgid   "Show help on hover"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 616
+msgid   "Advanced Settings..."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 683
+msgid   "Queue"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 688
+msgid   "Editor"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 693
+msgid   "Progress"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 699
+msgid   "Complete"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 809
+msgid   "Advanced Settings"
+msgstr  ""
+
+#
+# #-#-#-#-#  big-video-converter.pot (big-video-converter)  #-#-#-#-#
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1287
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 1320
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 1483
+msgid   "Conversion Complete"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1288
+#, python-brace-format
+msgid   "Successfully converted {0}"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1374
+msgid   "File not found"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1387
+msgid   "Could not load video file"
+msgstr  ""
+
+#
+# #-#-#-#-#  big-video-converter.pot (big-video-converter)  #-#-#-#-#
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1505
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 488
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 612
+msgid   "Error"
+msgstr  ""
+
+#
+# #-#-#-#-#  big-video-converter.pot (big-video-converter)  #-#-#-#-#
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1538
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1543
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/completion_page.py, line: 39
+msgid   "All Conversions Complete"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1539
+msgid   "1 video has been converted successfully!"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1544
+#, python-brace-format
+msgid   "{0} videos have been converted successfully!"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1609
+msgid   "Select Video Files"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1620
+msgid   "Video Files"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1633
+msgid   "Select Folder with Video Files"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1659
+msgid   "{} video files have been added to the queue."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1663
+msgid   "Files Added"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1669
+msgid   "No Files Found"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1671
+msgid   "No valid video files were found in the selected folder."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1678
+msgid   "Please select a folder, not a file."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1686
+msgid   "Error selecting folder: {}"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1710
+msgid   "No Files Added"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1711
+msgid   "No valid video files were found in your selection."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1722
+msgid   "Dependencies Not Found"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1723
+msgid   "FFmpeg and/or MPV are not installed and we could not determine how "
+        "to install them for your system.\n"
+        "Please install them manually using your distribution's package "
+        "manager."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1737
+msgid   "Installation Successful"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1738
+msgid   "Dependencies have been installed. The application will now restart."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1745
+msgid   "Installation Failed"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/main.py, line: 1746
+msgid   "Dependencies were not found after installation. Please restart the "
+        "application manually."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/dependency_dialog.py, line: 25
+msgid   "Required Dependencies"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/dependency_dialog.py, line: 48
+msgid   "Installation Required"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/dependency_dialog.py, line: 52
+msgid   "FFmpeg and MPV are required for this application to function."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/dependency_dialog.py, line: 53
+msgid   "FFmpeg is needed for conversion, and MPV for the video editor "
+        "preview. Due to legal restrictions, they are not bundled."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/dependency_dialog.py, line: 57
+msgid   "Command to be executed"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/dependency_dialog.py, line: 72
+msgid   "<b>Administrator privileges required</b>\n"
+        "You will be asked for your password to install system packages."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/dependency_dialog.py, line: 81
+msgid   "Installation Output"
+msgstr  ""
+
+#
+# #-#-#-#-#  big-video-converter.pot (big-video-converter)  #-#-#-#-#
+#
+# #-#-#-#-#  big-video-converter.pot (big-video-converter)  #-#-#-#-#
+#
+# #-#-#-#-#  big-video-converter.pot (big-video-converter)  #-#-#-#-#
+#
+# #-#-#-#-#  big-video-converter.pot (big-video-converter)  #-#-#-#-#
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/dependency_dialog.py, line: 108
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 444
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 524
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 569
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 634
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 196
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 1104
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/progress_page.py, line: 332
+msgid   "Cancel"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/dependency_dialog.py, line: 112
+msgid   "Install Dependencies"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/dependency_dialog.py, line: 117
+msgid   "Close"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/dependency_dialog.py, line: 125
+msgid   "Starting installation...\n"
+        "\n"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/dependency_dialog.py, line: 172
+msgid   "Installation completed successfully!"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/dependency_dialog.py, line: 173
+msgid   "Please restart the application."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/dependency_dialog.py, line: 177
+msgid   "Installation failed."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/dependency_dialog.py, line: 178
+msgid   "Please check the errors above and try again."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/completion_page.py, line: 24
+msgid   "Conversions Complete"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/completion_page.py, line: 41
+msgid   "All video conversions have been completed successfully!"
+msgstr  ""
+
+#
+# #-#-#-#-#  big-video-converter.pot (big-video-converter)  #-#-#-#-#
+#
+# #-#-#-#-#  big-video-converter.pot (big-video-converter)  #-#-#-#-#
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/completion_page.py, line: 67
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 497
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 228
+msgid   "OK"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 317
+msgid   "Go to segment start"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 326
+msgid   "Edit segment times"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 333
+msgid   "Remove segment"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 416
+msgid   "Edit Segment"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 418
+msgid   "Edit start and end times for this segment"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 428
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 555
+msgid   "Start Time:"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 436
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 561
+msgid   "End Time:"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 445
+msgid   "Save"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 470
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 594
+msgid   "Invalid Time"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 470
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 594
+msgid   "Time values cannot be negative"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 476
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 600
+msgid   "Invalid Time Range"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 476
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 600
+msgid   "Start time must be before end time"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 518
+msgid   "Clear All Segments?"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 521
+msgid   "This will remove all trim segments. This action cannot be undone."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 525
+msgid   "Clear All"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 543
+msgid   "Add Segment Manually"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 545
+msgid   "Enter start and end times for the new segment"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 570
+msgid   "Add Segment"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_page.py, line: 875
+msgid   "Disabled"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 52
+msgid   "Welcome to Big Video Converter"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 71
+msgid   "Convert Video Formats"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 72
+msgid   "MP4, MKV, AVI, WebM and many more\n"
+        "with hardware acceleration support"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 75
+msgid   "Trim and Cut Videos"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 77
+msgid   "Select specific segments to keep\n"
+        "and create new videos with only those parts"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 82
+msgid   "Video Color Adjustments"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 84
+msgid   "Control brightness, saturation, and hue\n"
+        "to enhance your videos"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 89
+msgid   "Fast Copy Mode"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 91
+msgid   "Change container format without re-encoding\n"
+        "for ultra-fast processing with no quality loss"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 108
+msgid   "Crop Videos"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 109
+msgid   "Remove unwanted areas from edges\n"
+        "to focus on what matters"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 112
+msgid   "Audio Control"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 114
+msgid   "Extract, copy, or re-encode audio\n"
+        "with multiple codec options"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 119
+msgid   "Subtitle Management"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 121
+msgid   "Extract subtitles to SRT files\n"
+        "or keep them embedded in video"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 126
+msgid   "Batch Processing"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 128
+msgid   "Convert multiple videos at once\n"
+        "with queue management"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 153
+msgid   "Show dialog on startup"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/welcome_dialog.py, line: 171
+msgid   "Let's Start"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 98
+msgid   "Mark segment point"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 108
+msgid   "Cancel current mark"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 122
+msgid   "Back 1 second"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 128
+msgid   "Previous frame"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 142
+msgid   "Play/Pause"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 147
+msgid   "Next frame"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 158
+msgid   "Forward 1 second"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 174
+msgid   "Audio Track"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 195
+msgid   "Toggle Fullscreen"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 239
+msgid   "Left"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 239
+msgid   "Right"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 239
+msgid   "Top"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 239
+msgid   "Bottom"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 274
+msgid   "Resolution:"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 275
+msgid   "Codec:"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 276
+msgid   "Size:"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 277
+msgid   "Duration:"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 296
+msgid   "Volume"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 330
+msgid   "Color Adjustments"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 335
+msgid   "Brightness"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 351
+msgid   "Saturation"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 367
+msgid   "Hue"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 382
+msgid   "Trim Segments"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 385
+msgid   "Segments List"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 395
+msgid   "No Segments Added"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 396
+msgid   "Use the scissors button on the player to mark segments."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 415
+msgid   "Add segment manually"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 423
+msgid   "Clear all segments"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 438
+msgid   "Join segments into a single file"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 439
+msgid   "Save each segment as a separate file"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/video_edit_ui.py, line: 494
+msgid   "Reset to default"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 105
+msgid   "Reset All Settings"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 119
+msgid   "Encoding Settings"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 122
+msgid   "GPU partial mode"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 123
+msgid   "Decode using CPU, encode using GPU"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 129
+msgid   "Compression preset"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 129
+msgid   "Speed vs compression ratio"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 139
+msgid   "Output Format"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 139
+msgid   "Container format for output file"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 154
+msgid   "Video resolution"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 155
+msgid   "Select output resolution"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 163
+msgid   "Custom resolution"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 164
+msgid   "Ex: 1280x720, 1920x1080"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 178
+msgid   "Audio Settings"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 194
+msgid   "Audio bitrate"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 196
+msgid   "Select common bitrate or enter custom value"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 202
+msgid   "Custom bitrate"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 203
+msgid   "Ex: 128k, 192k, 256k"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 227
+msgid   "Audio channels"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 228
+msgid   "Select common channel configuration"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 233
+msgid   "Custom channels"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 234
+msgid   "Ex: 2 (stereo), 6 (5.1)"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 251
+msgid   "Audio codec"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 252
+msgid   "Codec to use when re-encoding audio"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 261
+msgid   "General Options"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 264
+msgid   "Additional FFmpeg options"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 265
+msgid   "Ex: -ss 60 -t 30"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 270
+msgid   "Only extract subtitles"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 273
+msgid   "Extract subtitles to .srt files"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 628
+msgid   "Reset All Settings?"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 631
+msgid   "This will reset all settings to their default values. This action "
+        "cannot be undone."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 634
+msgid   "Reset"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 653
+msgid   "Settings Reset"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/settings_page.py, line: 655
+msgid   "All settings have been reset to their default values."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 101
+msgid   "Open Containing Folder"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 104
+msgid   "More Information..."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 107
+msgid   "Delete from Disk..."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 188
+msgid   "Delete File from Disk?"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 191
+msgid   "Are you sure you want to permanently delete '{}'?\n"
+        "\n"
+        "This action cannot be undone."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 197
+msgid   "Delete"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 226
+msgid   "Error Deleting File"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 227
+msgid   "Could not delete file: {}"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 282
+msgid   "No Video Files"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 284
+msgid   "Drag files here or use the Add Files button"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 318
+msgid   "Save in the same folder as the original file"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 319
+msgid   "Folder to save"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 336
+msgid   "Select folder"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 363
+msgid   "Delete original files"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 428
+msgid   "Select the output folder"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 654
+msgid   "Could not open this video file"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 682
+msgid   "Could not open the video file with the default player"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 686
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 1673
+msgid   "Could not find this video file"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 1098
+msgid   "MP4 Compatibility Warning"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 1101
+msgid   "The source file contains streams that are not compatible with MP4 "
+        "container when copying without reencoding:\n"
+        "\n"
+        "{}\n"
+        "\n"
+        "To convert this file to MP4, you need to disable 'Copy video without "
+        "reencoding' option to reencode the incompatible streams."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 1105
+msgid   "Proceed Anyway"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 1321
+#, python-brace-format
+msgid   "All {0} segments have been processed successfully!"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/conversion_page.py, line: 1484
+#, python-brace-format
+msgid   "All {0} segments have been joined successfully!"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/header_bar.py, line: 42
+msgid   "Back"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/header_bar.py, line: 68
+msgid   "0 files"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/header_bar.py, line: 86
+msgid   "Add Files"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/header_bar.py, line: 92
+msgid   "Add Folder"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/header_bar.py, line: 101
+msgid   "Convert All"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/header_bar.py, line: 111
+msgid   "Convert This File"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/header_bar.py, line: 127
+msgid   "Welcome Screen"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/header_bar.py, line: 128
+msgid   "About"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/header_bar.py, line: 129
+msgid   "Quit"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/header_bar.py, line: 187
+msgid   "1 file"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/header_bar.py, line: 189
+msgid   "{} files"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/progress_page.py, line: 30
+msgid   "Conversion Progress"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/progress_page.py, line: 187
+msgid   "Starting conversion..."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/progress_page.py, line: 243
+msgid   "Command"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/progress_page.py, line: 265
+msgid   "Waiting for command..."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/progress_page.py, line: 281
+msgid   "Command Output"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/big-video-converter/ui/progress_page.py, line: 445
+msgid   "Conversion cancelled"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/nautilus-python/extensions/big_video_converter_extension.py, line: 70
+msgid   "Convert Video"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/nautilus-python/extensions/big_video_converter_extension.py, line: 73
+#, python-brace-format
+msgid   "Convert {0} Videos"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/nautilus-python/extensions/big_video_converter_extension.py, line: 111
+msgid   "No valid local files selected"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/nautilus-python/extensions/big_video_converter_extension.py, line: 112
+msgid   "Could not get the path for the selected video files."
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/nautilus-python/extensions/big_video_converter_extension.py, line: 127
+msgid   "Application Launch Error"
+msgstr  ""
+
+#
+# File: big-video-converter/big-video-converter/usr/share/nautilus-python/extensions/big_video_converter_extension.py, line: 128
+#, python-brace-format
+msgid   "Failed to start Big Video Converter: {0}"
+msgstr  ""
