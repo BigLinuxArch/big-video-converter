@@ -8,12 +8,12 @@ depends=('python' 'python-gobject' 'gtk4' 'ffmpeg' 'python-cairo' 'python-mpv' '
 #optdepends=('')
 conflicts=('comm-video-converter')
 replaces=('comm-video-converter')
-pkgver=$(date +%y.%m.%d)
-pkgrel=$(date +%H%M)
+pkgver=25.11.01
+pkgrel=1756
 arch=('any')
 license=('MIT')
 url="https://github.com/biglinux/$pkgname"
-source=("git+${url}.git")
+source=("git+${url}.git#branch=stable-2025-11-01_14-49")
 md5sums=('SKIP')
 
 # Automatically detect and use the correct install file
